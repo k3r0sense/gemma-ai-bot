@@ -8,7 +8,7 @@
 
 Use `git clone` to download the project:
 
-`git clone [repository link - replace with actual link]`
+`git clone https://github.com/k3r0sense/gemma-ai-bot.git`
 
 ### 2. Ollama
 
