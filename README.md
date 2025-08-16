@@ -1,6 +1,6 @@
 # Getting Started
 
-<img src="cover.png" alt="Cover" align="center">
+<img src="GH.png" alt="Cover" align="center">
 
 > _This simple example demonstrates how to use the powerful **[Gemma3](https://ollama.com/library/gemma3)** model from [**Ollama**](https://ollama.com/), seamlessly integrated with the [**AIOGram**](https://aiogram.dev/) Telegram Bot API._
 
