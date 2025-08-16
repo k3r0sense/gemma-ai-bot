@@ -22,7 +22,7 @@ Use `git clone` to download the project:
 - Other models (_not only Gemma_) – [**here**](https://ollama.com/library/)
   - Don't forget to change `MODEL` in `utils.py`
 
-### 3. Development Environment (Choose One)
+### 3. Development Environment
 
 - PyCharm: Create a new project and set up a virtual environment.
 
@@ -39,7 +39,7 @@ Use `git clone` to download the project:
 
 ## Running the Bot
 
-1. **Create a Bot:** First, use [@BotFather]() to create your Telegram bot.
+1. **Create a Bot:** First, use [@BotFather](https://t.me/BotFather) to create your Telegram bot.
 2. **Get Your Token:** Obtain the bot's token.
 3. **Configure:** Paste the bot token into the `TOKEN` variable in `config.py`.
 4. **Start the Bot:** `python3 bot.py`
